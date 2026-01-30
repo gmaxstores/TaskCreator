@@ -6,7 +6,9 @@ This is a simple task management application that allows users to create a profi
 
 My purpose for creating this app is to gain experience with Jetpack Compose, a modern toolkit for building native Android UI. I am also using this project to learn how to use other modern Android development tools, such as ViewModel, Room, and Jetpack Navigation.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Source Code Video](https://www.loom.com/share/e1859e72ce294037bac15ddc0a854d35)
+
+[Software Demo Video](https://youtube.com/shorts/bJjYu9BPM9o?si=w8aNDji2GNT0zqem)
 
 # Development Environment
 
